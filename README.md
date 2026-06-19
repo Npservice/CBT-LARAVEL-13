@@ -41,6 +41,7 @@ cp .env.example .env
 
 
 *Buka file `.env` dan sesuaikan pengaturan database Anda (`DB_DATABASE`, `DB_USERNAME`, `DB_PASSWORD`).*
+
 5. **Generate Application Key**
 ```bash
 php artisan key:generate
